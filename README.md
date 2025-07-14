@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

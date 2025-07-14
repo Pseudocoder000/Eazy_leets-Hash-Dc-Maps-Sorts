@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0002-add-two-numbers) |
+| [0263-ugly-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0263-ugly-number) |
 ## Recursion
 |  |
 | ------- |

@@ -38,4 +38,12 @@
 |  |
 | ------- |
 | [3881-minimize-maximum-component-cost](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/3881-minimize-maximum-component-cost) |
+## String
+|  |
+| ------- |
+| [3931-process-string-with-special-operations-i](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/3931-process-string-with-special-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3931-process-string-with-special-operations-i](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/3931-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->

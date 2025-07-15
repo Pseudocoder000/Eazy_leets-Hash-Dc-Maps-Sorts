@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0263-ugly-number) |
 ## Recursion
 |  |

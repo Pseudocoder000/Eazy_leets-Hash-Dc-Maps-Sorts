@@ -12,6 +12,7 @@
 | [0007-reverse-integer](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -21,13 +22,16 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0053-maximum-subarray) |
+| [0268-missing-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0268-missing-number) |
 | [3881-minimize-maximum-component-cost](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/3881-minimize-maximum-component-cost) |
 ## Sort
 |  |
@@ -57,4 +61,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

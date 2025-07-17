@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3931-process-string-with-special-operations-i](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/3931-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

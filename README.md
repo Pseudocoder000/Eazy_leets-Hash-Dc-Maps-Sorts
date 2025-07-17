@@ -27,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,4 +87,5 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0088-merge-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

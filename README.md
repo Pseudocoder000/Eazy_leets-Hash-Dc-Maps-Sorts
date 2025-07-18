@@ -28,6 +28,7 @@
 | [0136-single-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/1019-squares-of-a-sorted-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |

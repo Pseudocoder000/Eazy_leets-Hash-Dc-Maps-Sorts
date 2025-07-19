@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0125-valid-palindrome) |
 | [3931-process-string-with-special-operations-i](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/3931-process-string-with-special-operations-i) |
@@ -71,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0053-maximum-subarray) |
 ## Bit Manipulation
 |  |
@@ -90,6 +92,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0125-valid-palindrome) |
 | [1019-squares-of-a-sorted-array](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/1019-squares-of-a-sorted-array) |

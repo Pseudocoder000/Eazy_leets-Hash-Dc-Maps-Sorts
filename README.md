@@ -15,11 +15,13 @@
 | [0231-power-of-two](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,4 +106,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

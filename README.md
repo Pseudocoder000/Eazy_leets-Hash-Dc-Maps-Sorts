@@ -64,6 +64,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/0125-valid-palindrome) |
+| [3379-score-of-a-string](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/3379-score-of-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/Pseudocoder000/Amazon-OA-prep/tree/master/3931-process-string-with-special-operations-i) |
 ## Simulation
 |  |
